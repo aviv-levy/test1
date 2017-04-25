@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <topic name ="english">80</topic>
+    <topic name ="art">60</topic>
+    <topic name ="hebrew">70</topic>
+    <topic name ="computer sience">100</topic>
+    <topic name ="math">90</topic>
+</student>
+
+<student>
+  <topic name ="english">45</topic>
+    <topic name ="art">89</topic>
+    <topic name ="hebrew">75</topic>
+    <topic name ="computer sience">99</topic>
+    <topic name ="math">23</topic>
+</student>
